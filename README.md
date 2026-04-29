@@ -1,3 +1,4 @@
+Algorithm-Lab
 Practical-1: Tower of Hanoi
 Aim
 Transfer n disks from source to destination using an auxiliary rod via recursion.
